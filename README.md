@@ -1,10 +1,16 @@
 ## Data Analysis:-
-Used Different Modules for Data Analysis:-
-->Numpy
-->Matplotlib
-->Seaborn
-->Pandas
-->Scikit-Learn
+Used Different Modules:
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Pandas
+
+Scikit-Learn
+
 ## Screenshots:-
 ![Figure-2](https://github.com/user-attachments/assets/6b86cf32-fde5-48fc-87fe-633be0b0e437)
 ![Figure-1](https://github.com/user-attachments/assets/1d79b9e3-63cd-4c70-bdae-156ed95f8bb5)
